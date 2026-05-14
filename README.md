@@ -2,6 +2,10 @@
 
 一个面向 Android 4.4+ 老电视盒子的 Bilibili TV 客户端学习项目。
 
+## Release
+
+* Beta1 下载：[BILI-TV-20260515-beta1.apk](https://github.com/k1moj1s/BILI/releases/tag/BILI-TV-20260515-beta1)
+
 项目主要用于：
 
 * Android TV 开发学习
